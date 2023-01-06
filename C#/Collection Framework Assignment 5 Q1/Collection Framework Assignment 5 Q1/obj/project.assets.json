@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SMANJUAG\\source\\repos\\Collection Framework Assignment 5 Q1\\Collection Framework Assignment 5 Q1\\Collection Framework Assignment 5 Q1.csproj",
+      "projectUniqueName": "C:\\Users\\SMANJUAG\\.NET\\C#\\Collection Framework Assignment 5 Q1\\Collection Framework Assignment 5 Q1\\Collection Framework Assignment 5 Q1.csproj",
       "projectName": "Collection Framework Assignment 5 Q1",
-      "projectPath": "C:\\Users\\SMANJUAG\\source\\repos\\Collection Framework Assignment 5 Q1\\Collection Framework Assignment 5 Q1\\Collection Framework Assignment 5 Q1.csproj",
+      "projectPath": "C:\\Users\\SMANJUAG\\.NET\\C#\\Collection Framework Assignment 5 Q1\\Collection Framework Assignment 5 Q1\\Collection Framework Assignment 5 Q1.csproj",
       "packagesPath": "C:\\Users\\SMANJUAG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SMANJUAG\\source\\repos\\Collection Framework Assignment 5 Q1\\Collection Framework Assignment 5 Q1\\obj\\",
+      "outputPath": "C:\\Users\\SMANJUAG\\.NET\\C#\\Collection Framework Assignment 5 Q1\\Collection Framework Assignment 5 Q1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SMANJUAG\\AppData\\Roaming\\NuGet\\NuGet.Config",

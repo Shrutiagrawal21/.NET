@@ -12,7 +12,7 @@ namespace Assignment_7_A
         static void Main(string[] args)
         {
             // create directory
-            String path = @"C:\Users\SMANJUAG\.NET\Assignment 7\";
+            String path = @"C:\Users\SMANJUAG\.NET\C#\Assignment 7 A\Assignment 7 A";
 
             DirectoryInfo fl = new DirectoryInfo(path);
             fl.Create();

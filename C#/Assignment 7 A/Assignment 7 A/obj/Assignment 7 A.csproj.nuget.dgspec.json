@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SMANJUAG\\.NET\\Assignment 7 A\\Assignment 7 A\\Assignment 7 A.csproj": {}
+    "C:\\Users\\SMANJUAG\\.NET\\C#\\Assignment 7 A\\Assignment 7 A\\Assignment 7 A.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SMANJUAG\\.NET\\Assignment 7 A\\Assignment 7 A\\Assignment 7 A.csproj": {
+    "C:\\Users\\SMANJUAG\\.NET\\C#\\Assignment 7 A\\Assignment 7 A\\Assignment 7 A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SMANJUAG\\.NET\\Assignment 7 A\\Assignment 7 A\\Assignment 7 A.csproj",
+        "projectUniqueName": "C:\\Users\\SMANJUAG\\.NET\\C#\\Assignment 7 A\\Assignment 7 A\\Assignment 7 A.csproj",
         "projectName": "Assignment 7 A",
-        "projectPath": "C:\\Users\\SMANJUAG\\.NET\\Assignment 7 A\\Assignment 7 A\\Assignment 7 A.csproj",
+        "projectPath": "C:\\Users\\SMANJUAG\\.NET\\C#\\Assignment 7 A\\Assignment 7 A\\Assignment 7 A.csproj",
         "packagesPath": "C:\\Users\\SMANJUAG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SMANJUAG\\.NET\\Assignment 7 A\\Assignment 7 A\\obj\\",
+        "outputPath": "C:\\Users\\SMANJUAG\\.NET\\C#\\Assignment 7 A\\Assignment 7 A\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SMANJUAG\\AppData\\Roaming\\NuGet\\NuGet.Config",

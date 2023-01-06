@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SMANJUAG\\.NET\\OOPs Assignment 3\\OOPs Assignment 3\\OOPs Assignment 3.csproj": {}
+    "C:\\Users\\SMANJUAG\\.NET\\C#\\OOPs Assignment 3\\OOPs Assignment 3\\OOPs Assignment 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SMANJUAG\\.NET\\OOPs Assignment 3\\OOPs Assignment 3\\OOPs Assignment 3.csproj": {
+    "C:\\Users\\SMANJUAG\\.NET\\C#\\OOPs Assignment 3\\OOPs Assignment 3\\OOPs Assignment 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SMANJUAG\\.NET\\OOPs Assignment 3\\OOPs Assignment 3\\OOPs Assignment 3.csproj",
+        "projectUniqueName": "C:\\Users\\SMANJUAG\\.NET\\C#\\OOPs Assignment 3\\OOPs Assignment 3\\OOPs Assignment 3.csproj",
         "projectName": "OOPs Assignment 3",
-        "projectPath": "C:\\Users\\SMANJUAG\\.NET\\OOPs Assignment 3\\OOPs Assignment 3\\OOPs Assignment 3.csproj",
+        "projectPath": "C:\\Users\\SMANJUAG\\.NET\\C#\\OOPs Assignment 3\\OOPs Assignment 3\\OOPs Assignment 3.csproj",
         "packagesPath": "C:\\Users\\SMANJUAG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SMANJUAG\\.NET\\OOPs Assignment 3\\OOPs Assignment 3\\obj\\",
+        "outputPath": "C:\\Users\\SMANJUAG\\.NET\\C#\\OOPs Assignment 3\\OOPs Assignment 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SMANJUAG\\AppData\\Roaming\\NuGet\\NuGet.Config",
